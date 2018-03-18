@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       Popup Content
  * Plugin URI:        http://el-duderino.ru/
- * Description:       Попапы через ajax
+ * Description:       Попапы через Ajax
  * Version:           1.0.0
  * Author:            Big Feklistowski
  * Author URI:        http://el-duderino.ru/
